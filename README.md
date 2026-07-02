@@ -1,4 +1,5 @@
 # PulseML — AI Health Risk Predictor
+---
 
 ![Firebase](https://img.shields.io/badge/Firebase-Hosted-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-RandomForest-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
